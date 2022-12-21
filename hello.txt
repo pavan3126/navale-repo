@@ -1,0 +1,6 @@
+this is the first program to check git..
+writing second time to check again..
+writing new line22
+
+
+updating for repo
